@@ -1,4 +1,3 @@
-@@ -0,0 +1,304 @@
 # Discord Image Logger
 # By DeKrypt | https://github.com/dekrypted
 
